@@ -1,4 +1,4 @@
-# Dumbull: Study group pairing cross-platform app with swipe feature
+# Dumbull: the Tinder of studying
 
 Hackabull 2023 submission
 
